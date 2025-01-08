@@ -1,0 +1,134 @@
+[
+    {
+        "id": 1,
+        "data": {
+            "items": [
+                {
+                    "quantity": 3,
+                    "product": "Manzana"
+                },
+                {
+                    "quantity": 5,
+                    "product": "Banana"
+                }
+            ],
+            "total": 8.1
+        }
+    },
+    {
+        "id": 2,
+        "data": {
+            "items": [
+                {
+                    "quantity": 5,
+                    "product": "Galleta"
+                },
+                {
+                    "quantity": 3,
+                    "product": "Aceite de cocina"
+                },
+                {
+                    "quantity": 1,
+                    "product": "Libra de lentejas"
+                }
+            ],
+            "total": 21.0
+        }
+    },
+    {
+        "id": 3,
+        "data": {
+            "items": [
+                {
+                    "quantity": 5,
+                    "product": "Kiwi"
+                },
+                {
+                    "quantity": 3,
+                    "product": "Mango"
+                },
+                {
+                    "quantity": 1,
+                    "product": "Pitahaya"
+                }
+            ],
+            "total": 6.15
+        }
+    },
+    {
+        "id": 4,
+        "data": {
+            "items": [
+                {
+                    "quantity": 2,
+                    "product": "Kiwi"
+                },
+                {
+                    "quantity": 1,
+                    "product": "Mango"
+                },
+                {
+                    "quantity": 7,
+                    "product": "Pitahaya"
+                },
+                {
+                    "quantity": 2,
+                    "product": "Libra de arroz"
+                },
+                {
+                    "quantity": 1,
+                    "product": "Libra de lentejas"
+                },
+                {
+                    "quantity": 3,
+                    "product": "Yogur"
+                },
+                {
+                    "quantity": 1,
+                    "product": "Cereal"
+                }
+            ],
+            "total": 16.45
+        }
+    },
+    {
+        "id": 5,
+        "data": {
+            "items": [
+                {
+                    "quantity": 5,
+                    "product": "Jugo de fresa"
+                },
+                {
+                    "quantity": 6,
+                    "product": "Mango"
+                }
+            ],
+            "total": 12.4
+        }
+    },
+    {
+        "id": 6,
+        "data": {
+            "items": [
+                {
+                    "quantity": 5,
+                    "product": "Kiwi"
+                },
+                {
+                    "quantity": 5,
+                    "product": "Mango"
+                },
+                {
+                    "quantity": 4,
+                    "product": "Yogur"
+                },
+                {
+                    "quantity": 3,
+                    "product": "Cereal"
+                }
+            ],
+            "total": 17.35
+        }
+    }
+]
